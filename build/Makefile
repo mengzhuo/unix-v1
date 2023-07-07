@@ -21,7 +21,7 @@
 
 
 USECOREPATCHES = yes
-EXTRAPATCHES = 
+EXTRAPATCHES = no_chdir
 
 ALL = rf0.dsk rk0.dsk
 MKFS = ../tools/mkfs
